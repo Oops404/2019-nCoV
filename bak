@@ -1,0 +1,28 @@
+# 'seriousCount:{seriousCount}, '
+# 'suspectedIncr:{suspectedIncr}, '
+# 'confirmedIncr:{confirmedIncr}, '
+# 'curedIncr:{curedIncr}, '
+# 'deadIncr:{deadIncr}, '
+# 'seriousIncr:{seriousIncr}, '
+# obj["seriousCount"], obj["suspectedIncr"],
+# obj["confirmedIncr"], obj["curedIncr"],
+# obj["deadIncr"], obj["seriousIncr"],
+# print(
+#     '确诊人数:{confirmedCount}, 疑似感染人数:{suspectedCount}, '
+#     '治愈人数:{curedCount}, 死亡人数:{deadCount}, '
+#     '更新时间:{updateTime}'.format(
+#         confirmedCount=daily["confirmedCount"],
+#         suspectedCount=daily["suspectedCount"],
+#         curedCount=daily["curedCount"],
+#         deadCount=daily["deadCount"],
+#         updateTime=format_time))
+
+
+    #
+    # print("行政区:{provinceName}, 确诊:{confirmedCount}, 疑似:{suspectedCount}, "
+    #       "治愈:{curedCount}, 死亡:{deadCount}, 日期:{updateTime}"
+    #       .format(provinceName=daily["provinceName"],
+    #               confirmedCount=daily["confirmedCount"],
+    #               suspectedCount=daily["suspectedCount"],
+    #               curedCount=daily["curedCount"],
+    #               deadCount=daily["deadCount"], updateTime=format_time))
